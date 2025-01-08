@@ -1,0 +1,16 @@
+{
+    "*": [
+        "all",
+        [ "attribute-filter", "id", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "updateTime", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "version", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "names", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "websites", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "socials", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "emails", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "phones", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "brand", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "addresses", [ ">=", "$zoom", 11 ] ],
+        [ "attribute-filter", "sources", [ ">=", "$zoom", 11 ] ]
+    ]
+}
