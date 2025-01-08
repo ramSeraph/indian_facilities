@@ -1,7 +1,7 @@
 # indian_facilities
 
 Data available in the repository:
-* [Cultural/Religious Places](https://github.com/ramSeraph/indian_facilties/releases/tag/cultural)
+* [Cultural/Religious Places](https://github.com/ramSeraph/indian_facilities/releases/tag/cultural)
 * [Urban Sanitation](https://github.com/ramSeraph/indian_facilities/releases/tag/urban-sanitation)
 * [Points Of Interest](https://github.com/ramSeraph/indian_facilities/releases/tag/pois)
 * [PMGSY Facilities](https://github.com/ramSeraph/indian_facilities/releases/tag/pmgsy-facilities)
