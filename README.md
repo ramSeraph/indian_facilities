@@ -7,3 +7,4 @@ Data available in the repository:
 * [PMGSY Facilities](https://github.com/ramSeraph/indian_facilities/releases/tag/pmgsy-facilities)
 * [JJM Facilties](https://github.com/ramSeraph/indian_facilities/releases/tag/jjm-facilities)
 * [Police Stations](https://github.com/ramSeraph/indian_facilities/releases/tag/police-stations)
+* [Post Offices](https://github.com/ramSeraph/indian_facilities/releases/tag/post-offices)
