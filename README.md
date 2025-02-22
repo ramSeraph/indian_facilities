@@ -9,3 +9,4 @@ Data available in the repository:
 * [Police Stations](https://github.com/ramSeraph/indian_facilities/releases/tag/police-stations)
 * [Post Offices](https://github.com/ramSeraph/indian_facilities/releases/tag/post-offices)
 * [Health](https://github.com/ramSeraph/indian_facilities/releases/tag/health)
+* [Education](https://github.com/ramSeraph/indian_facilities/releases/tag/education)
