@@ -10,3 +10,5 @@ Data available in the repository:
 * [Post Offices](https://github.com/ramSeraph/indian_facilities/releases/tag/post-offices)
 * [Health](https://github.com/ramSeraph/indian_facilities/releases/tag/health)
 * [Education](https://github.com/ramSeraph/indian_facilities/releases/tag/education)
+* [Banking](https://github.com/ramSeraph/indian_facilities/releases/tag/banking)
+* [Government Services](https://github.com/ramSeraph/indian_facilities/releases/tag/govt-services)
