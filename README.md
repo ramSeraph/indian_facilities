@@ -12,3 +12,4 @@ Data available in the repository:
 * [Education](https://github.com/ramSeraph/indian_facilities/releases/tag/education)
 * [Banking](https://github.com/ramSeraph/indian_facilities/releases/tag/banking)
 * [Government Services](https://github.com/ramSeraph/indian_facilities/releases/tag/govt-services)
+* [Miscellaneous](https://github.com/ramSeraph/indian_facilities/releases/tag/misc)
